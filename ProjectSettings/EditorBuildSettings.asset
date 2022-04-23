@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LaboratorioSim.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/simulacionCaidaLibre.unity
+    guid: 31005f340b142a4479baf3b2d4698591
+  - enabled: 1
+    path: Assets/Scenes/SimulacionCo2D.unity
+    guid: e771eb5d32d823a429ed82b6e4349af2
+  - enabled: 1
+    path: Assets/Scenes/SimulacionCo3D.unity
+    guid: 9374cc0e95759814cb5253e765de0e8e
+  - enabled: 1
+    path: Assets/Scenes/SimulacionCoLineal.unity
+    guid: 822cac2aa805f4545936cb8a5404bbfc
+  - enabled: 1
+    path: Assets/Scenes/SimulacionCoObs.unity
+    guid: ab95e0a1cdbf00348a548e4245ae62f4
+  - enabled: 1
+    path: Assets/Scenes/SimulacionMasaResorte.unity
+    guid: f4ecd4b0eff21bc48a73c74905d23a10
+  - enabled: 1
+    path: Assets/Scenes/simulacionPendiente.unity
+    guid: 47fda268ab7e8744282e6c5151018b5a
+  - enabled: 1
+    path: Assets/Scenes/simulacionTiroParabolico.unity
+    guid: 02ab79bd693b608488c294ac8d0a329e
+  m_configObjects: {}
